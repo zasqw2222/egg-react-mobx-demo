@@ -35,7 +35,7 @@ export default class App extends Component {
             style={styles.button}
             onClick={() => this.props.todoList.addTodo('new task')}
           >
-            Click
+            Click44444
           </button>
         </div>
       </div>
